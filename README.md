@@ -1,5 +1,6 @@
 
 [![Build Status](https://raherrebrugh.visualstudio.com/MSLearn%20Spacegame%20Web/_apis/build/status/raherrebrugh.mslearn-tailspin-spacegame-web?branchName=master)](https://raherrebrugh.visualstudio.com/MSLearn%20Spacegame%20Web/_build/latest?definitionId=6&branchName=master)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=space-game-web-44&metric=alert_status)](https://sonarcloud.io/dashboard?id=space-game-web-44)
 
 # Contributing
 
