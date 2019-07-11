@@ -1,4 +1,6 @@
 
+[![Build Status](https://raherrebrugh.visualstudio.com/MSLearn%20Spacegame%20Web/_apis/build/status/raherrebrugh.mslearn-tailspin-spacegame-web?branchName=master)](https://raherrebrugh.visualstudio.com/MSLearn%20Spacegame%20Web/_build/latest?definitionId=6&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
